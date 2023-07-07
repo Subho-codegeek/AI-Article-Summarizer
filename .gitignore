@@ -23,3 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 .env
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.7.0/darwin_amd64/terraform-provider-aws_v5.7.0_x5
